@@ -1,0 +1,10 @@
+.logo a svg {
+    width: 124px;
+    height: 34px;
+    fill: white;
+}
+
+.logo a{
+    display: flex;
+    align-items: center;
+}

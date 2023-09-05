@@ -1,0 +1,21 @@
+header {
+    background-color: #404eed;
+    width: 100vw;
+    z-index: 999;
+}
+
+
+
+.topbar {
+    max-width: 1260px;
+    margin: 0 auto;
+    height: 80px;
+    display: flex;
+    padding: 0 40px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Cell1 {
+    align-items: center;
+}
